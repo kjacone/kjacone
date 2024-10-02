@@ -20,15 +20,15 @@ With over 8 years of experience in software engineering, mainly in fintech and F
 ## 🛠 **Featured Projects**
 
 ### **AI Banking Assistant**
-- **Tech stack:** Python, LangChain, Streamlit, GPT-4
+- **Tech stack:** Langgraph, Python, LangChain, Streamlit, GPT-4
 - **Description:** Built an AI-powered banking assistant capable of handling account inquiries, transaction disputes, and loan queries, integrating tools for notifications and database access.
 
 ### **Product Comparison App**
-- **Tech stack:** Python, LangChain, Streamlit
+- **Tech stack:** Langgraph, Python, LangChain, Streamlit
 - **Description:** Developed an app to compare products/services based on price, reviews, trends, sentiment, and location, using AI for decision-making.
 
 ### **Multimodal AI for Meeting Videos**
-- **Tech stack:** Python, LangChain, GPT-4, Video Processing
+- **Tech stack:** Langgraph, Python, LangChain, GPT-4, Video Processing
 - **Description:** Created a multimodal AI system that allows users to chat with meeting videos, extracting key insights and summarizing discussions using video, audio, and text data.
 
 ---
