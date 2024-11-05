@@ -19,19 +19,13 @@ With over 8 years of experience in software engineering, mainly in fintech and F
 
 ## 🛠 **Featured Projects**
 
-### **AI Banking Assistant**
-- **Tech stack:** Langgraph, Python, LangChain, Streamlit, GPT-4
-- **Description:** Built an AI-powered banking assistant capable of handling account inquiries, transaction disputes, and loan queries, integrating tools for notifications and database access.
-
-### **Product Comparison App**
-- **Tech stack:** Langgraph, Python, LangChain, Streamlit
-- **Description:** Developed an app to compare products/services based on price, reviews, trends, sentiment, and location, using AI for decision-making.
-
-### **Multimodal AI for Meeting Videos**
-- **Tech stack:** Langgraph, Python, LangChain, GPT-4, Video Processing
-- **Description:** Created a multimodal AI system that allows users to chat with meeting videos, extracting key insights and summarizing discussions using video, audio, and text data.
+### **Model-Driven Data Visualizer for SQL Data using LLMs**
+- **Tech stack:** React, Python, SQLite, Large Language Models (LLMs), Generative UI
+- **Description:** Developed an AI-powered tool that enables users to analyze and visualize SQL data through natural language queries. The system integrates a user-friendly frontend with dynamic visualizations and a backend that utilizes specialized agents for SQL querying and research assistance.
+- **Project Link:** [Model-Driven Data Visualizer](https://github.com/yourusername/model-driven-data-visualizer)
 
 ---
+
 
 ## 📫 **Connect with Me**
 
