@@ -22,7 +22,7 @@ With over 8 years of experience in software engineering, mainly in fintech and F
 ### **Model-Driven Data Visualizer for SQL Data using LLMs**
 - **Tech stack:** React, Python, SQLite, Large Language Models (LLMs), Generative UI
 - **Description:** Developed an AI-powered tool that enables users to analyze and visualize SQL data through natural language queries. The system integrates a user-friendly frontend with dynamic visualizations and a backend that utilizes specialized agents for SQL querying and research assistance.
-- **Project Link:** [Model-Driven Data Visualizer](https://github.com/kjacone/model-driven-data-visualizer)
+- **Project Link:** [Model-Driven Data Visualizer](https://github.com/kjacone/model_driven_data_visualizer)
 
 ---
 
