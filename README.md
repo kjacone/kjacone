@@ -18,7 +18,19 @@ With over 8 years of experience in software engineering, mainly in fintech and F
 ---
 
 ## 🛠 **Featured Projects**
-
+### Comprehensive Software Development Assistant
+- **Tech Stack:** Python, React, LangChain, Generative UI, LLMs
+Built a highly capable agent to support developers in every phase of the software engineering process. The system integrates AI-driven tools to analyze requirements, generate code snippets, produce detailed documentation, and even automate deployment processes.
+- **Project Link:** [Model-Driven Data Visualizer](https://github.com/kjacone/swe-agent)  
+- **Features:**
+**Requirements Analysis:** Automates understanding and structuring of software requirements from natural language input.
+**Code Generation:** Generates high-quality, context-aware code for various frameworks and languages.
+**Intelligent Documentation:** Creates clear, comprehensive documentation for projects.
+**Automated Deployment:** Streamlines CI/CD processes for faster, error-free deployments.
+- **Potential Applications:**
+**1. Agile Development:** Accelerates iterative development cycles by automating repetitive tasks.
+**2. Technical Consultation:** Provides real-time insights and recommendations for system architecture and best practices.
+**3. DevOps Integration:** Simplifies deployment pipelines for seamless integration into production.
 
 ### Model-Driven Data Visualizer for SQL Data using LLMs
 - **Tech stack:** React, Python, SQLite, Large Language Models (LLMs), Generative UI  
