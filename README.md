@@ -21,16 +21,18 @@ With over 8 years of experience in software engineering, mainly in fintech and F
 ### Comprehensive Software Development Assistant
 - **Tech Stack:** Python, React, LangChain, Generative UI, LLMs
 Built a highly capable agent to support developers in every phase of the software engineering process. The system integrates AI-driven tools to analyze requirements, generate code snippets, produce detailed documentation, and even automate deployment processes.
-- **Project Link:** [Model-Driven Data Visualizer](https://github.com/kjacone/swe-agent)  
+- **Project Link:** [SWE-Agent](https://github.com/kjacone/swe-agent)  
 - **Features:**
-**Requirements Analysis:** Automates understanding and structuring of software requirements from natural language input.
-**Code Generation:** Generates high-quality, context-aware code for various frameworks and languages.
-**Intelligent Documentation:** Creates clear, comprehensive documentation for projects.
-**Automated Deployment:** Streamlines CI/CD processes for faster, error-free deployments.
+- **Requirements Analysis:** Automates understanding and structuring of software requirements from natural language input.
+- **Code Generation:** Generates high-quality, context-aware code for various frameworks and languages.
+- **Intelligent Documentation:** Creates clear, comprehensive documentation for projects.
+- **Automated Deployment:** Streamlines CI/CD processes for faster, error-free deployments.
 - **Potential Applications:**
-**1. Agile Development:** Accelerates iterative development cycles by automating repetitive tasks.
-**2. Technical Consultation:** Provides real-time insights and recommendations for system architecture and best practices.
-**3. DevOps Integration:** Simplifies deployment pipelines for seamless integration into production.
+- **1. Agile Development:** Accelerates iterative development cycles by automating repetitive tasks.
+- **2. Technical Consultation:** Provides real-time insights and recommendations for system architecture and best practices.
+- **3. DevOps Integration:** Simplifies deployment pipelines for seamless integration into production.
+
+---
 
 ### Model-Driven Data Visualizer for SQL Data using LLMs
 - **Tech stack:** React, Python, SQLite, Large Language Models (LLMs), Generative UI  
@@ -43,8 +45,24 @@ Built a highly capable agent to support developers in every phase of the softwar
 
 ---
 
+### Gemma Fine-Tuning for Swahili Bakery CRM Email Management
+A specialized fine-tuning project for Gemma to process customer emails for a Swahili bakery, handling orders, inquiries, and services in native Swahili language.
+- **Tech Stack** Python 3.9+, Gemma 7B base model, PyTorch for model training, FastAPI for API endpoints, PostgreSQL for data storage
+- **Project Link:** [Swahili-Bakery-AI](https://github.com/kjacone/swahili_cake_boss)  
+- **Features**
+- **Email Processing:** Automatically handles customer inquiries about bakery products and services
+- **Multilingual Support:** Primary focus on Swahili with English language fallback
+- **Custom Order Management:** Processes special cake orders and event catering requests
+- **Smart Scheduling:** Manages delivery timing and catering event bookings
+- **Potential Applications**
+- **Customer Service:** Automated response generation for common bakery inquiries
+- **Order Processing:** Streamlined handling of custom cake and catering requests
+- **Business Analytics:** Insights from customer interaction patterns
+
+__
+
 ### AI Banking Assistant
-- **Tech stack:** Python, LangChain, Streamlit, GPT-4  
+- **Tech stack:** Python, LangChain, React, GPT-4  
   Built an AI-powered banking assistant capable of handling account inquiries, transaction disputes, and loan queries, integrating tools for notifications and database access.  
 - **Potential Applications:**  
   - **Customer Support:** Provide instant assistance for banking inquiries and transactions.  
@@ -54,7 +72,7 @@ Built a highly capable agent to support developers in every phase of the softwar
 ---
 
 ### Product Comparison App
-- **Tech stack:** Python, LangChain, Streamlit  
+- **Tech stack:** Python, LangChain, React  
   Developed an app to compare products/services based on price, reviews, trends, sentiment, and location, using AI for decision-making.  
 - **Potential Applications:**  
   - **Consumer Insights:** Help users identify the best products based on their needs and preferences.  
