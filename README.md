@@ -1,6 +1,6 @@
 # 👨‍💻 **Jacone Keya**
 
-**Software Engineer | AI Specialist | Fintech & FMCG Expert**
+**Software Engineer | AI Innovator | Passionate About Solving Real-World Problems**
 
 ---
 
