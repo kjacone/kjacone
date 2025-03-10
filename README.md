@@ -34,7 +34,7 @@ An AI-powered **developer assistant** that generates a **fully documented monore
 ✅ **Cost Analysis for On-Prem & Cloud Architectures**.  
 
 🔗 **GitHub Repo:** [Boilerplate AI](https://github.com/kjacone/swe-agent)  
-📽️ **Demo Video:** [Watch Here](notify2.mp4)
+📽️ **Demo Video:** [Watch Here](https://www.loom.com/share/86e808781ac8485596f9da4898722b38?sid=25340789-7521-40d8-a34a-483101c5d742)
 
 ---
 
